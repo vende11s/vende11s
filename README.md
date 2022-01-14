@@ -9,7 +9,7 @@
 ### Contact with me
 
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
-&nbsp; vende#2490
+&nbsp;vende#2490
 <br/>
 
 ### Languages and tools i use:
@@ -21,7 +21,7 @@
 
 <img align="left" alt="Bash" width="26px" src="img/bash.png" />
 
-<img align="left" alt="Visual Studio 22" width="26px" src="img/visualstudio22.png" />
+<img align="left" alt="Visual Studio 22" width="26px" src="https://raw.githubusercontent.com/vende11s/vende11s/master/img/visualstudio22.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/visualstudiocode.svg" />
 
