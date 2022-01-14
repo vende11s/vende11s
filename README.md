@@ -1,3 +1,4 @@
+
 ## I'm vende, polish kid who tries programming
 
 - 🔭 I'm looking for good for me technology
@@ -7,37 +8,28 @@
 - 💵 if you can pay me, I can do everything you want
 
 
-### Contact with me
+### <p align="center">Contact with me</p>
 
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
-vende#2490
+<p align="center"><img align="center" alt="codeSTACKr.com" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />vende#2490</p>
+
+
 <br/>
 
-### Languages and tools I use:
+### <p align="center">Languages and tools I use:</p>
 
+<p align="center" width="100%">
+<img align="" alt="Binbows" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg?style=center" />
+<img align="" alt="Linux" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg" />
+<img align="" alt="Bash" width="26px" src="img/bash.svg" />
+<img align="" alt="Visual Studio 22" width="26px" src="img/visualstudio22.svg" />
+<img align="" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/visualstudiocode.svg" />
+<img align="" alt="cpp" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg" />
+<img align="" alt="Git" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" />
+<img align="" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" />
+</p>
 
-<img align="left" alt="Binbows" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
+<br/><br/><br/><br/>
 
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg" />
-
-<img align="left" alt="Bash" width="26px" src="img/bash.svg" />
-
-<img align="left" alt="Visual Studio 22" width="26px" src="img/visualstudio22.svg" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/visualstudiocode.svg" />
-
-<img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" />
-
-<br />
-<br />
-<br />
-<br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vende11s&count_private=true&hide=prs&show_icons=true&theme=dracula)
-
-
-
+<p align="center" width="100%">
+<img  src="https://github-readme-stats.vercel.app/api?username=vende11s&count_private=true&hide=prs&show_icons=true&theme=dracula&border_radius=15" />
+</p>
