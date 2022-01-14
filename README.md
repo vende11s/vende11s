@@ -13,8 +13,6 @@
 <p align="center"><img align="center" alt="codeSTACKr.com" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />vende#2490</p>
 
 
-<br/>
-
 ### <p align="center">Languages and tools I use:</p>
 
 <p align="center" width="100%">
@@ -28,7 +26,7 @@
 <img align="" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" />
 </p>
 
-<br/><br/><br/><br/>
+<br/>
 
 <p align="center" width="100%">
 <img  src="https://github-readme-stats.vercel.app/api?username=vende11s&count_private=true&hide=prs&show_icons=true&theme=dracula&border_radius=15" />
