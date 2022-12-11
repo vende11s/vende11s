@@ -1,16 +1,16 @@
 
 ## I'm vende, polish kid who tries programming
 
-- 🔭 I'm looking for good for me technology
-- 🌱 I’m currently learning everything I can
-- 👯 I'm looking to collaborate with other low experienced programmers
+- 🔭 looking for good technology to spent rest of my life on
+- 🌱 currently learning everything I can (especially hacking things)
+- 👯 looking to collaborate with other low experienced IT people
 - 🌍 Poland, 06
 - 💵 if you can pay me, I can do everything you want
 
 
 ### <p align="center">Contact with me</p>
 
-<p align="center"><img align="center" alt="codeSTACKr.com" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />vende#2490</p>
+<p align="center"><img align="center" alt="discord" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" />      vende#2490</p>
 
 
 ### <p align="center">Languages and tools I use:</p>
@@ -24,6 +24,8 @@
 <img align="" alt="cpp" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg" />
 <img align="" alt="Git" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" />
 <img align="" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" />
+<img align="" alt="Python" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" />
+
 </p>
 
 <br/>
