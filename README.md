@@ -1,5 +1,5 @@
 
-## 💵 if you can pay me, I can do everything you want
+## 💵 if you can pay me, I can do anything you want
 
 
 ### <p align="center">Contact with me</p>
